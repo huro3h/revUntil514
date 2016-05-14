@@ -15,6 +15,7 @@
 		3C6A8D6D1CE6D13B001527FA /* revUntil514Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C6A8D6C1CE6D13B001527FA /* revUntil514Tests.swift */; };
 		3C6A8D781CE6D13B001527FA /* revUntil514UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C6A8D771CE6D13B001527FA /* revUntil514UITests.swift */; };
 		3C6A8D861CE6E49F001527FA /* secViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C6A8D851CE6E49F001527FA /* secViewController.swift */; };
+		3C6A8D881CE6E7DA001527FA /* json.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3C6A8D871CE6E7DA001527FA /* json.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3C6A8D771CE6D13B001527FA /* revUntil514UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = revUntil514UITests.swift; sourceTree = "<group>"; };
 		3C6A8D791CE6D13B001527FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3C6A8D851CE6E49F001527FA /* secViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = secViewController.swift; sourceTree = "<group>"; };
+		3C6A8D871CE6E7DA001527FA /* json.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = json.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				3C6A8D571CE6D13B001527FA /* AppDelegate.swift */,
 				3C6A8D591CE6D13B001527FA /* ViewController.swift */,
 				3C6A8D851CE6E49F001527FA /* secViewController.swift */,
+				3C6A8D871CE6E7DA001527FA /* json.txt */,
 				3C6A8D5B1CE6D13B001527FA /* Main.storyboard */,
 				3C6A8D5E1CE6D13B001527FA /* Assets.xcassets */,
 				3C6A8D601CE6D13B001527FA /* LaunchScreen.storyboard */,
@@ -235,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C6A8D881CE6E7DA001527FA /* json.txt in Resources */,
 				3C6A8D621CE6D13B001527FA /* LaunchScreen.storyboard in Resources */,
 				3C6A8D5F1CE6D13B001527FA /* Assets.xcassets in Resources */,
 				3C6A8D5D1CE6D13B001527FA /* Main.storyboard in Resources */,
